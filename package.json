@@ -1,0 +1,19 @@
+{
+  "name": "star_wars_rpg_companion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naldridge/SW_TableTopAssistant.git"
+  },
+  "author": "naldridge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naldridge/SW_TableTopAssistant/issues"
+  },
+  "homepage": "https://github.com/naldridge/SW_TableTopAssistant#readme"
+}
